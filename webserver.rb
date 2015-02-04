@@ -1,1 +1,1 @@
-package 'apache2'
+package 'httpd'
